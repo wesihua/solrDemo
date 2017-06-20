@@ -1,0 +1,2 @@
+# solrDemo
+solr learning demo
